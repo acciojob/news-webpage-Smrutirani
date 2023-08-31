@@ -2,6 +2,7 @@
 header{
     background-color: #f5f5f5; 
     width: 100%;
+	text-align: center;
 }
 .contain{
     display: flex;
